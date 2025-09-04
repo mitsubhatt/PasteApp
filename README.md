@@ -19,7 +19,6 @@ PasteApp allows users to create, share, and view text snippets with ease.
 - Create and save text snippets  
 - Copy snippets with a single click  
 - View all pastes in a clean UI  
-- Dark theme support  
 - Responsive design  
 
 
