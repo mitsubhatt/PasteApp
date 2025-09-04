@@ -11,7 +11,7 @@ A simple and efficient paste sharing application built with **React**.
 PasteApp allows users to create, share, and view text snippets with ease.  
 
 ## 🚀 Live Demo  
-🔗 [PasteApp Live](paste-app-olive-delta.vercel.app)  
+🔗 [PasteApp Live](https://paste-app-olive-delta.vercel.app/)  
 
 
 
