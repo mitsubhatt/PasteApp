@@ -5,15 +5,15 @@
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%5E1.9-764ABC?logo=redux)](https://redux-toolkit.js.org/)  
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://your-vercel-link.vercel.app/)  
 
----
+
 
 A simple and efficient paste sharing application built with **React**.  
 PasteApp allows users to create, share, and view text snippets with ease.  
 
 ## 🚀 Live Demo  
-🔗 [PasteApp Live](https://your-vercel-link.vercel.app/)  
+🔗 [PasteApp Live](paste-app-olive-delta.vercel.app)  
 
----
+
 
 ## Features
 - Create and save text snippets  
@@ -22,7 +22,7 @@ PasteApp allows users to create, share, and view text snippets with ease.
 - Dark theme support  
 - Responsive design  
 
----
+
 
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS  
@@ -31,7 +31,7 @@ PasteApp allows users to create, share, and view text snippets with ease.
 - **Notifications**: React Hot Toast  
 - **Deployment**: Vercel  
 
----
+
 
 ## Installation & Setup
 
@@ -39,6 +39,8 @@ PasteApp allows users to create, share, and view text snippets with ease.
 2. cd PasteApp/paste-app
 3. npm install
 4. npm run dev
+
+---
 
 This project reflects my ongoing journey in React and modern web development.  
 I’m open to feedback, improvements, and collaboration opportunities to enhance both the project and my skills further :)
