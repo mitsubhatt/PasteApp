@@ -1,12 +1,44 @@
-# React + Vite
+# PasteApp  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)  
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%5E1.9-764ABC?logo=redux)](https://redux-toolkit.js.org/)  
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://your-vercel-link.vercel.app/)  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple and efficient paste sharing application built with **React**.  
+PasteApp allows users to create, share, and view text snippets with ease.  
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo  
+🔗 [PasteApp Live](https://your-vercel-link.vercel.app/)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+- Create and save text snippets  
+- Copy snippets with a single click  
+- View all pastes in a clean UI  
+- Dark theme support  
+- Responsive design  
+
+---
+
+## Tech Stack
+- **Frontend**: React, Tailwind CSS  
+- **State Management**: Redux Toolkit  
+- **Icons**: Lucide React  
+- **Notifications**: React Hot Toast  
+- **Deployment**: Vercel  
+
+---
+
+## Installation & Setup
+
+1. git clone https://github.com/mitsubhatt/PasteApp.git
+2. cd PasteApp/paste-app
+3. npm install
+4. npm run dev
+
+This project reflects my ongoing journey in React and modern web development.  
+I’m open to feedback, improvements, and collaboration opportunities to enhance both the project and my skills further :)
